@@ -16,7 +16,7 @@ Images and annotations are organized in COCO format.
 *Example images with annotations in the BOND dataset (yellow: MCF-7 cells; red: red blood cells; green: PS beads).*
 
 ## Getting Started
-Download and extract the [BOND dataset](https://drive.google.com/file/d/1cTuE92t3xpk-O6tZhEErjL79ynAmsAuk/view?usp=sharing) as `data/bond2024`.
+Download and extract the [BOND dataset](https://hkustconnect-my.sharepoint.com/:u:/g/personal/xluoay_connect_ust_hk/EduYBYJvDphFhyUXZC-y5esBBzvM5wjWmyaDPZaz3JKJmQ?e=8iVto4) as `data/bond2024`.
 
 ### Training
 ```sh
